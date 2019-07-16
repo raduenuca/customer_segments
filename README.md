@@ -1,2 +1,2 @@
-# customer_segments
-Customer Segments: Udacity - Machine Learning - Introduction Nanodegree Program
+# Customer Segments
+*Udacity - Machine Learning - Introduction Nanodegree Program*
